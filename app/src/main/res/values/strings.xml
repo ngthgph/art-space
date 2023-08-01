@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="year">(%s)</string>
+
+    <string name="girl_with_a_pearl_earring">Girl with a Pearl Earring</string>
+    <string name="a_girl_with_a_pearl_earring">Johannes Vermeer</string>
+    <string name="y_girl_with_a_pearl_earring">1665</string>
+
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="a_mona_lisa">Leonardo da Vinci</string>
+    <string name="y_mona_lisa">1503–1506</string>
+
+    <string name="the_starry_night">The Starry Night</string>
+    <string name="a_the_starry_night">Vincent van Gogh</string>
+    <string name="y_the_starry_night">1889</string>
+
+    <string name="the_kiss">The Kiss</string>
+    <string name="a_the_kiss">Gustav Klimt</string>
+    <string name="y_the_kiss">1908</string>
+
+    <string name="the_birth_of_venus">The birth of Venus</string>
+    <string name="a_the_birth_of_venus">Sandro Botticelli</string>
+    <string name="y_the_birth_of_venus">1486</string>
+
+    <string name="las_meninas">Las Meninas</string>
+    <string name="a_las_meninas">Diego Velázquez</string>
+    <string name="y_las_meninas">1656</string>
+
+    <string name="whistler_s_mother">Whistler\'s Mother</string>
+    <string name="a_whistler_s_mother">James Abbott McNeill Whistler</string>
+    <string name="y_whistler_s_mother">1871</string>
+    <string name="a_sunday_afternoon_on_the_island_of_la_grande_jatte">A Sunday Afternoon on the Island of La Grande Jatte</string>
+    <string name="a_a_sunday_afternoon_on_the_island_of_la_grande_jatte">Georges Seurat</string>
+    <string name="y_a_sunday_afternoon_on_the_island_of_la_grande_jatte">1884–1886</string>
+
+</resources>
